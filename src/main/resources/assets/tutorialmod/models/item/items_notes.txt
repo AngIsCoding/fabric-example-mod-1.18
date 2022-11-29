@@ -1,0 +1,1 @@
+This section is used for all the blocks texture in the inventory

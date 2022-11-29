@@ -1,5 +1,15 @@
 {
   "item.tutorialmod.mythril_ingot": "Mythril Ingot",
   "item.tutorialmod.mythril_nugget": "Mythril Nugget",
-  "item.tutorialmod.raw_mythril": "Raw Mythril"
+  "item.tutorialmod.raw_mythril": "Raw Mythril",
+
+
+
+  "block.tutorialmod.mythril_block": "Mythril Block",
+  "block.tutorialmod.mythril_ore": "Mythril Ore",
+  "block.tutorialmod.netherrack_mythril_block": "Nether Rack Mythril",
+
+
+
+  "itemGroup.tutorialmod.mythril": "Mythril Tutorial Tab"
 }
