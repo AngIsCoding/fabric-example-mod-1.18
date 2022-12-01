@@ -1,6 +1,7 @@
 package net.coderang.tutorialmod;
 
 import net.coderang.tutorialmod.block.ModBlocks;
+import net.coderang.tutorialmod.effect.ModStatusEffect;
 import net.coderang.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
@@ -17,5 +18,6 @@ public class TutorialMod implements ModInitializer {
 	public void onInitialize() {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModStatusEffect.registerModStatusEffect();
 	}
 }
